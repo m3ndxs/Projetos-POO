@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\bin\Debug\net6.0\Excecao_Personalizada.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\bin\Debug\net6.0\Excecao_Personalizada.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\bin\Debug\net6.0\Excecao_Personalizada.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\bin\Debug\net6.0\Excecao_Personalizada.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\bin\Debug\net6.0\Excecao_Personalizada.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\refint\Excecao_Personalizada.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\Excecao_Personalizada.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Excecao_Personalizada\Excecao_Personalizada\obj\Debug\net6.0\ref\Excecao_Personalizada.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\bin\Debug\net6.0\Example_Delegates.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\bin\Debug\net6.0\Example_Delegates.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\bin\Debug\net6.0\Example_Delegates.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\bin\Debug\net6.0\Example_Delegates.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\bin\Debug\net6.0\Example_Delegates.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\refint\Example_Delegates.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\Example_Delegates.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Delegates\Example_Delegates\obj\Debug\net6.0\ref\Example_Delegates.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\bin\Debug\net6.0\Example_Predicate.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\bin\Debug\net6.0\Example_Predicate.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\bin\Debug\net6.0\Example_Predicate.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\bin\Debug\net6.0\Example_Predicate.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\bin\Debug\net6.0\Example_Predicate.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\refint\Example_Predicate.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\Example_Predicate.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Example_Predicate\Example_Predicate\obj\Debug\net6.0\ref\Example_Predicate.dll

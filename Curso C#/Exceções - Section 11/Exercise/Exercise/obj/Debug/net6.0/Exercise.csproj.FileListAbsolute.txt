@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\bin\Debug\net6.0\Exercise.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\bin\Debug\net6.0\Exercise.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\bin\Debug\net6.0\Exercise.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\bin\Debug\net6.0\Exercise.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Exceções - Section 11\Exercise\Exercise\obj\Debug\net6.0\ref\Exercise.dll

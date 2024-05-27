@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\bin\Debug\net6.0\VoteCounter.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\bin\Debug\net6.0\VoteCounter.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\bin\Debug\net6.0\VoteCounter.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\bin\Debug\net6.0\VoteCounter.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\bin\Debug\net6.0\VoteCounter.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\refint\VoteCounter.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\VoteCounter.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\VoteCounter\VoteCounter\obj\Debug\net6.0\ref\VoteCounter.dll

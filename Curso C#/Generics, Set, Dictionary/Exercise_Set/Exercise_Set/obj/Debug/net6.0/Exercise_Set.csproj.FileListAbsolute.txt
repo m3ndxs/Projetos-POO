@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\bin\Debug\net6.0\Exercise_Set.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\bin\Debug\net6.0\Exercise_Set.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\bin\Debug\net6.0\Exercise_Set.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\bin\Debug\net6.0\Exercise_Set.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\bin\Debug\net6.0\Exercise_Set.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\refint\Exercise_Set.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\Exercise_Set.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\Exercise_Set\Exercise_Set\obj\Debug\net6.0\ref\Exercise_Set.dll

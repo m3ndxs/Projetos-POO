@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\bin\Debug\net6.0\ComparisonExample.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\bin\Debug\net6.0\ComparisonExample.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\bin\Debug\net6.0\ComparisonExample.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\bin\Debug\net6.0\ComparisonExample.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\bin\Debug\net6.0\ComparisonExample.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\refint\ComparisonExample.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ComparisonExample.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\ComparisonExample\ComparisonExample\obj\Debug\net6.0\ref\ComparisonExample.dll

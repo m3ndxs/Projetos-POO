@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\bin\Debug\net6.0\CityComparison.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\bin\Debug\net6.0\CityComparison.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\bin\Debug\net6.0\CityComparison.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\bin\Debug\net6.0\CityComparison.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\bin\Debug\net6.0\CityComparison.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\refint\CityComparison.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\CityComparison.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\CityComparison\CityComparison\obj\Debug\net6.0\ref\CityComparison.dll

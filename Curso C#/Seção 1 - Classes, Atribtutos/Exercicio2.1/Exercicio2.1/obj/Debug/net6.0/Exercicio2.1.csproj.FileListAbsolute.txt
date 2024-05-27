@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\bin\Debug\net6.0\Exercicio2.1.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\bin\Debug\net6.0\Exercicio2.1.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\bin\Debug\net6.0\Exercicio2.1.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\bin\Debug\net6.0\Exercicio2.1.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\bin\Debug\net6.0\Exercicio2.1.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\refint\Exercicio2.1.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\Exercicio2.1.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\Exercicio2.1\Exercicio2.1\obj\Debug\net6.0\ref\Exercicio2.1.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\bin\Debug\net6.0\Exercicio02.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\bin\Debug\net6.0\Exercicio02.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\bin\Debug\net6.0\Exercicio02.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\bin\Debug\net6.0\Exercicio02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\bin\Debug\net6.0\Exercicio02.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\refint\Exercicio02.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\Exercicio02.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Exercicio02\Exercicio02\obj\Debug\net6.0\ref\Exercicio02.dll

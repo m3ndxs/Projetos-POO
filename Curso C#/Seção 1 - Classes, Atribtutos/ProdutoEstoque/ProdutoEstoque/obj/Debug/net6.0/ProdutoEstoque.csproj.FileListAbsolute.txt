@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\refint\ProdutoEstoque.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Seção 1 - Classes, Atribtutos\ProdutoEstoque\ProdutoEstoque\obj\Debug\net6.0\ref\ProdutoEstoque.dll

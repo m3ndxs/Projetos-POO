@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\bin\Debug\net6.0\Example_Linq_Lambda.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\bin\Debug\net6.0\Example_Linq_Lambda.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\bin\Debug\net6.0\Example_Linq_Lambda.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\bin\Debug\net6.0\Example_Linq_Lambda.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\bin\Debug\net6.0\Example_Linq_Lambda.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\refint\Example_Linq_Lambda.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\Example_Linq_Lambda.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Lambda - Delegates - Linq\Linq\Example_Linq_Lambda\Example_Linq_Lambda\obj\Debug\net6.0\ref\Example_Linq_Lambda.dll

@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\bin\Debug\net6.0\CookieExampleDictionary.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\bin\Debug\net6.0\CookieExampleDictionary.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\bin\Debug\net6.0\CookieExampleDictionary.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\bin\Debug\net6.0\CookieExampleDictionary.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\bin\Debug\net6.0\CookieExampleDictionary.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\refint\CookieExampleDictionary.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\CookieExampleDictionary.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\CookieExampleDictionary\CookieExampleDictionary\obj\Debug\net6.0\ref\CookieExampleDictionary.dll

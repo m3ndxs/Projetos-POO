@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\bin\Debug\net6.0\OnlineCoursePortal.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\bin\Debug\net6.0\OnlineCoursePortal.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\bin\Debug\net6.0\OnlineCoursePortal.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\bin\Debug\net6.0\OnlineCoursePortal.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\bin\Debug\net6.0\OnlineCoursePortal.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\refint\OnlineCoursePortal.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\OnlineCoursePortal.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\Curso C#\Generics, Set, Dictionary\OnlineCoursePortal\OnlineCoursePortal\obj\Debug\net6.0\ref\OnlineCoursePortal.dll
